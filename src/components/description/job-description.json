@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_description_job_descriptions",
+  "info": {
+    "displayName": "job_description",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
